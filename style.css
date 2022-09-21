@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+article {
+   display: block;
+   width: 20%;
+   margin-top: 6px;
+}
+
+main {
+    font-family: Arial, Helvetica;
+}
+
+.bloco {
+    background-color: blueviolet;
+    font-size: 18px;
+    margin: 10px;
+    padding: 5px;
+}
+
+p {
+    font-size: 15px;
+    
+}
+
+#bloco-1 {
+    background-color: orange;
+    border-color: rgb(237, 177, 66);
+    border-style: solid;
+    border-width: 4px;
+}
+
+#bloco-2 {
+background-color: rgba(51, 159, 51, 0.916);
+border-style: solid;
+border-color: rgb(96, 224, 96);
+border-width: 4px;
+}
+
+#bloco-3 {
+background-color: rgb(7, 98, 7);
+border-style: dashed;
+border-color: rgb(4, 61, 4);
+border-width: 4px;
+}
+
+
+#bloco-4 {
+background-color: rgb(225, 37, 8);
+border-style: dashed;
+border-color: rgb(211, 79, 110);
+border-width: 4px;
+}
